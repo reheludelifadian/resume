@@ -1,14 +1,14 @@
 {
-    "avatar": "/resume/data/1.jpg",
+    "avatar": "/resume/data/IMG_8533.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "wvy",
-        "description": "",
-        "school": "",
-        "profession": "计算机科学与技术",
-        "sex": "男",
+        "name": "冯甜甜",
+        "description": "放最臭的屁",
+        "school": "天津美术学院",
+        "profession": "雕塑",
+        "sex": "女",
         "education" : "本科",
-        "workage": "2012届毕业",
+        "workage": "2024届",
         "phone": "15088888888",
         "email": "tonjayin@gmail.com"
     },
